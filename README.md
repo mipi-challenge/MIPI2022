@@ -1,5 +1,5 @@
 # Mobile Intelligent Photography and Imaging Challenge (MIPI) 2022 
-Dataset and Code for MIPI 2022 Challenge in ECCV 2022. [[Workshop Webpage]](https://openaccess.thecvf.com/content/CVPR2022W/NTIRE/papers/Yang_NTIRE_2022_Challenge_on_Super-Resolution_and_Quality_Enhancement_of_Compressed_CVPRW_2022_paper.pdf)
+Dataset and Code for MIPI 2022 Challenge in ECCV 2022. [[Workshop Webpage]](https://mipi-challenge.org/)
 
 <p align="center">
   <img src="assets/mipi-webpage.png" width="800">
