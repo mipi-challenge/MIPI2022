@@ -8,13 +8,16 @@ Dataset and Code for MIPI 2022 Challenge in ECCV 2022. [[Workshop Webpage]](http
 ## Challenge Tracks
 All data and baseline code are hosted on Google Drive:
 (TBD)
-| Track | dataset | code | report | Description
+| Track | Dataset | Code | Report | Description
 | :--- | :--: | :----: | :----: | :----------
 | [RGB+ToF Depth Completion](https://codalab.lisn.upsaclay.fr/competitions/4956) | link | link | link | Uses sparse, noisy ToF depth measurements with RGB images to obtain a complete depth map.
 | [Quad Joint Remosaic and Denoise](https://codalab.lisn.upsaclay.fr/competitions/4955) | link | link | link | Converts Quad-Bayer RAW data into Bayer format so that it can be processed with standard ISPs.
 | [RGBW Joint Remosaic and Denoise](https://codalab.lisn.upsaclay.fr/competitions/4954) | link | link | link | Converts RGBW RAW data into Bayer format so that it can be processed with standard ISPs.
 | [RGBW Joint Fusion and Denoise](https://codalab.lisn.upsaclay.fr/competitions/4953) | link | link | link | Fuses Bayer data and a monochrome channel data into Bayer format to increase SNR and spatial resolution.
 | [Under-display Camera Image Restoration](https://codalab.lisn.upsaclay.fr/competitions/4874) | link | link | link | Improves the visual quality of image captured by a new imaging system equipped under-display camera.
+
+## Terms and Conditions
+Please check the [terms and conditions](https://mipi-challenge.org/terms.html) for further rules for using the datasets and codes.
 
 
 ## Citation
